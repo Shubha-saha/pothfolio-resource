@@ -25,6 +25,11 @@
   border: none;
   border-radius: 5px;
 }
+.btn-primary-2{
+  background: #FFF8F3;
+  color: #FD6E0A;
+  border: 1px solid #FD6E0A;
+}
 #section-title{
   font-size: 35px;
   font-weight: bold;
